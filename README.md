@@ -1,2 +1,2 @@
 # Churn-analysis-Dashboard
-Explore churn data insights on GitHub: demographic trends, phone/data plan consumption, customer service calls, and international/local plan utilization. Optimize retention strategies and enhance customer satisfaction in telecommunications.
+Delve into my GitHub repository for comprehensive insights into overall churn data, demographic trends, and customer behavior analysis. Our data encompasses customer demographics, phone/data plan consumption, customer service calls, and utilization of international and local plans. Uncover actionable insights to optimize retention strategies, enhance customer satisfaction, and drive business growth in the telecommunications sector.
